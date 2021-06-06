@@ -1,0 +1,44 @@
+
+p{
+    font-size: 14px;
+    color: #262626;
+}
+
+.section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.main-hedding{
+    color: rgb(204, 18, 18);
+    font-size: 26px;
+}
+
+.under-line{
+    height: 0.4px;
+    width: 4rem;
+    background-color: #f76c2f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.underline{
+    height: 4px;
+    width: 4rem;
+    background-color: #f76c2f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bg-c-light{
+    background-color: #f2ebeb;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none !important;
+}
+
+.footer a:hover{
+    color: gray;
+    text-decoration: none !important;
+}
