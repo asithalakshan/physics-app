@@ -18,7 +18,7 @@ function Foooter(){
                         <div><Link to="/">Home</Link></div>
                         <div><Link to="/About">About Us</Link></div>
                         <div><Link to="/Contact">Contact Us</Link></div>
-                        <div><Link to="/">Blog</Link></div>
+                        <div><Link to="/Login">Log In</Link></div>
                     </div>
                     <div className="col-md-4">
                         <h6>Contact Info</h6>

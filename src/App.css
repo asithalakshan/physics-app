@@ -1,3 +1,6 @@
+.bg-my{
+    background-color: #48C9B0;
+}
 
 p{
     font-size: 14px;
@@ -30,7 +33,7 @@ p{
     margin-bottom: 10px;
 }
 .bg-c-light{
-    background-color: #f2ebeb;
+    background-color: #E8F8F5;
 }
 
 .footer a{
